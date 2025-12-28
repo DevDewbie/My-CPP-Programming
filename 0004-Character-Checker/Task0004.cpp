@@ -20,4 +20,5 @@ int main() {
 		cout << "All Capital Letter";
 	else
 		cout << "All Small Letter";
+	return 0;
 }
